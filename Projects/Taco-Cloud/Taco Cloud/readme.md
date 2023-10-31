@@ -6,13 +6,17 @@ Taco Cloud is a web application that allows users to customize and place taco or
 
 - **Customizable Orders:** Users can create personalized taco orders by selecting from a variety of ingredients and customizing their preferences.
   <br>
- ![order](https://github.com/Raghav2305/Spring/assets/82498222/d594405b-8818-44f0-8944-2f85e10bced9)
+
+- Order:
+![2](https://github.com/Raghav2305/Spring/assets/82498222/a6c2b934-186f-4070-911b-9cdef8e1c3b7)
 
 
 - **Real-time Email Confirmation:** The application uses Jakarta Mail to send email confirmations to customers upon successful order placement. Customers receive personalized notifications and real-time status updates.
 
 - **Responsive Web Interface:** Taco Cloud features a user-friendly and responsive web interface, allowing users to easily navigate through the customization options and place orders seamlessly.
- ![home](https://github.com/Raghav2305/Spring/assets/82498222/ef4d1743-23af-4f72-b4af-89a1f4e71ebc)
+
+- Home:
+![1](https://github.com/Raghav2305/Spring/assets/82498222/d98bebd9-4d95-49cc-bc4e-6cd74cad8943)
 
 
 <br>  
