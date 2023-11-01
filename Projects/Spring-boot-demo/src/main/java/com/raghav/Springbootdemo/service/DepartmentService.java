@@ -5,10 +5,14 @@ import com.raghav.Springbootdemo.entity.Department;
 import java.util.List;
 
 public interface DepartmentService {
-   public Department saveDepartment(Department department);
+    Department saveDepartment(Department department);
 
-   public List<Department> fetchDepartments();
+    List<Department> fetchDepartments();
 
 
-    public Department fetchDepartmentByID(Long departmentID);
+     Department fetchDepartmentByID(Long departmentID);
+
+    void deleteDepartment(Long departmentID);
+
+    Department updateDepartmentByID(Long departmentID, Department department);
 }
